@@ -13,3 +13,6 @@ and give respect. If there is any problem, they will be the
 first person to be contacted. Thus it will increase your 
 importance.The more we communicate the less we suffer and the 
 better we feel about everything around. 
+
+
+git commands
